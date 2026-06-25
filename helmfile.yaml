@@ -2,3 +2,12 @@ releases:
   - name: helm-test
     chart: .
     installed: true
+
+
+# repositories:
+#   - name: helm-test
+#     url: https://chathurabasnayake.github.io/helm-test/
+
+# releases:
+#   - name: helm-test
+#     chart: helm-test/helm-test
