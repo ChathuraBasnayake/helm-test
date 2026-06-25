@@ -1,0 +1,4 @@
+releases:
+  - name: helm-test
+    chart: .
+    installed: true
